@@ -168,7 +168,7 @@ export const testimonials = [
   },
   {
     id: "1",
-    name: "Abhishek Kushawaha",
+    name: "Abhishek ",
     role: "HCL",
     avatarUrl: "/images/testimonials/abhishek.png",
     comment:
